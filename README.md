@@ -1,7 +1,7 @@
 TV-B-Gone-Advance
 =================
 
-Another TV-B-Gone project for AVR architecture
+Another TV-B-Gone assembler project for 8bit AVR architecture
 
 TV-B-Gone is a well known device that shuts down all disturbing TVs by
 sequential sending "power off" remote codes via high power IR LED.

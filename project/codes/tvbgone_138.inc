@@ -1,0 +1,1 @@
+; -----------------------------------------------------------------------------; Code 138 - Autovox, Grundig, Indesit, Luxor, Minerva, Mitsubishi, National,; Panasonic, Thomson; Carrier Freq = 40.58 KHz.db (((XTAL / 40580.0) / 2.0) - 1.0), 178.db 6, 24 ; 1067     4329.db 6, 0 ; 1069        0
